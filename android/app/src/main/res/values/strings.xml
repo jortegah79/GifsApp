@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">gifs-app</string>
+    <string name="title_activity_main">gifs-app</string>
+    <string name="package_name">com.jortegah79giffsapp.www</string>
+    <string name="custom_url_scheme">com.jortegah79giffsapp.www</string>
+</resources>
